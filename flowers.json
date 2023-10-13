@@ -1,0 +1,30 @@
+[
+   {
+      "name": "rose",
+      "color": "red",
+      "description": "Has horns and very beatiful",
+      "image": "https://static.vecteezy.com/system/resources/previews/005/131/248/non_2x/red-rose-with-green-leaf-free-vector.jpg",
+      "maxHeight": "20"
+   },
+   {
+      "name": "camile",
+      "color": "white",
+      "description": "Its sommer flover",
+      "image": "https://flor2u.ru/images/uploads/conversion/85c/85cd3a71267f3f7a463e94f799f6470f/85cd3a71267f3f7a463e94f799f6470f-medium.jpg",
+      "maxHeight": "50"
+   },
+   {
+      "name": "Tulip",
+      "color": "colorful",
+      "description": "Its spring flover",
+      "image": "https://cdn.britannica.com/37/227037-050-CA792866/Broken-tulip-flower.jpg",
+      "maxHeight": "30"
+   },
+   {
+      "name": "Lily of the valley",
+      "color": "white",
+      "description": "Its sommer flover",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Convallaria_majalis_inflorescence_-_Keila.jpg/600px-Convallaria_majalis_inflorescence_-_Keila.jpg",
+      "maxHeight": "15"
+   }
+]
